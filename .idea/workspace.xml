@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec039090-3c8f-42f3-b2aa-4faed3d8ad7c" name="Changes" comment="Comit 1 para git">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ec039090-3c8f-42f3-b2aa-4faed3d8ad7c" name="Changes" comment="Comit 2 para git" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,6 +57,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Comit 1 para git" />
-    <option name="LAST_COMMIT_MESSAGE" value="Comit 1 para git" />
+    <MESSAGE value="Comit 2 para git" />
+    <option name="LAST_COMMIT_MESSAGE" value="Comit 2 para git" />
   </component>
 </project>
