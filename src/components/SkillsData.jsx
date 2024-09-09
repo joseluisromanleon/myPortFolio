@@ -4,7 +4,7 @@ import PhpIcon from './icons/PhpIcon'
 import WordpressIcon from './icons/WordpressIcon'
 import IllustratorIcon from './icons/IllustratorIcon'
 import JavaIcon from './icons/JavaIcon'
-import Springboot from './icons/SpringBoot.jsx'
+import Springboot from './icons/springBoot.jsx'
 import MongoDbIcon from './icons/MongoDbIcon.jsx'
 
 
