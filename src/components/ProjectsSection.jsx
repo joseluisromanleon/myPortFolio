@@ -2,12 +2,11 @@ import ProjectCard from './ProjectCard'
 
 const projectsData = [
   {
-    id: 1,
-    title: 'Wordpress',
-    description:
-      'Sitios web adaptables, enfocados a afianzar la marca, SEO y conversión. Diseñado en Wordpress, uso de plugins, temas hijo, Elementor.   https://softwaredevelopers.website/',
-    https: 'https://softwaredevelopers.website/',
-    image: 'WordpressProjects',
+    id: 4,
+    title: 'Maquetación',
+    description: 'Proyectos maquetados usando Adobe XD',
+    https: 'https://jlrleducaand.github.io/mhm/',
+    image: 'AdobeXD',
     tag: ['All', 'Web'],
   },
   {
@@ -20,6 +19,15 @@ const projectsData = [
     tag: ['All', 'Web'],
   },
   {
+    id: 1,
+    title: 'Wordpress',
+    description:
+      'Sitios web adaptables, enfocados a afianzar la marca, SEO y conversión. Diseñado en Wordpress, uso de plugins, temas hijo, Elementor.   https://softwaredevelopers.website/',
+    https: 'https://softwaredevelopers.website/',
+    image: 'WordpressProjects',
+    tag: ['All', 'Web'],
+  },
+  {
     id: 3,
     title: 'React',
     description:
@@ -28,18 +36,12 @@ const projectsData = [
     image: 'React',
     tag: ['All', 'Web'],
   },
-  {
-    id: 4,
-    title: 'Maquetación',
-    description: 'Proyectos maquetados usando Adobe XD',
-    https: 'https://jlrleducaand.github.io/mhm/',
-    image: 'AdobeXD',
-    tag: ['All', 'Web'],
-  },
+
   {
     id: 5,
-    title: 'Spring-Microservicios',
-    description: 'Proyecto Microservicios con SprigBoot (Feing)  MySQL MongoDB',
+    title: 'Spring-Microservices',
+    description:
+      'Proyecto Microservicios con SprigBoot Feing MySQL MongoDB GITHUB',
     https: 'https://github.com/joseluisromanleon/spring-microservices-init.git',
     image: 'postman',
     tag: ['All', 'Web'],
